@@ -1,0 +1,322 @@
+[
+  {
+    "term": "JavaScript",
+    "definition": "A programming language used to create interactive effects within web browsers."
+  },
+  {
+    "term": "Closure",
+    "definition": "A function that retains access to its lexical scope even when executed outside that scope."
+  },
+  {
+    "term": "HTML",
+    "definition": "The standard language for creating web pages and web applications."
+  },
+  {
+    "term": "CSS",
+    "definition": "A language used to describe the presentation of a document written in HTML."
+  },
+  {
+    "term": "JSON",
+    "definition": "A lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate."
+  },
+  {
+    "term": "API",
+    "definition": "A set of rules and protocols for building and interacting with software applications."
+  },
+  {
+    "term": "Node.js",
+    "definition": "A JavaScript runtime built on Chrome's V8 JavaScript engine, allowing server-side scripting."
+  },
+  {
+    "term": "React",
+    "definition": "A JavaScript library for building user interfaces, particularly single-page applications."
+  },
+  {
+    "term": "AJAX",
+    "definition": "A technique for creating asynchronous web applications, allowing web pages to update without reloading."
+  },
+  {
+    "term": "Git",
+    "definition": "A distributed version control system for tracking changes in source code during software development."
+  },
+  {
+    "term": "SQL",
+    "definition": "A standard language for managing and manipulating databases."
+  },
+  {
+    "term": "REST",
+    "definition": "An architectural style for designing networked applications, using HTTP requests to access and use data."
+  },
+  {
+    "term": "GraphQL",
+    "definition": "A query language for APIs that allows clients to request only the data they need."
+  },
+  {
+    "term": "WebAssembly",
+    "definition": "A binary instruction format for a stack-based virtual machine, enabling high-performance applications on the web."
+  },
+  {
+    "term": "TypeScript",
+    "definition": "A superset of JavaScript that adds static types, enabling better tooling and error checking."
+  },
+  {
+    "term": "Progressive Web App (PWA)",
+    "definition": "A type of application software delivered through the web, built using common web technologies, and intended to work on any platform that uses a standards-compliant browser."
+  },
+  {
+    "term": "Docker",
+    "definition": "A platform for developing, shipping, and running applications in containers, allowing for consistent environments across development and production."
+  },
+  {
+    "term": "Kubernetes",
+    "definition": "An open-source system for automating the deployment, scaling, and management of containerized applications."
+  },
+  {
+    "term": "Microservices",
+    "definition": "An architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities."
+  },
+  {
+    "term": "Continuous Integration (CI)",
+    "definition": "A development practice where developers integrate code into a shared repository frequently, with automated builds and tests."
+  },
+  {
+    "term": "Continuous Deployment (CD)",
+    "definition": "A software release process that automatically deploys every change that passes automated tests to production."
+  },
+  {
+    "term": "Agile",
+    "definition": "A project management and software development approach that emphasizes flexibility, collaboration, and customer feedback."
+  },
+  {
+    "term": "Scrum",
+    "definition": "An agile framework for managing complex projects, focusing on iterative progress through sprints."
+  },
+  {
+    "term": "Kanban",
+    "definition": "A visual workflow management method that helps teams visualize their work, limit work in progress, and maximize efficiency."
+  },
+  {
+    "term": "DevOps",
+    "definition": "A set of practices that combines software development (Dev) and IT operations (Ops), aiming to shorten the systems development life cycle and provide continuous delivery with high software quality."
+  },
+  {
+    "term": "Machine Learning",
+    "definition": "A subset of artificial intelligence that enables systems to learn from data, identify patterns, and make decisions with minimal human intervention."
+  },
+  {
+    "term": "Blockchain",
+    "definition": "A decentralized digital ledger that records transactions across many computers in such a way that the registered transactions cannot be altered retroactively."
+  },
+  {
+    "term": "Cloud Computing",
+    "definition": "The delivery of computing services over the internet, allowing for flexible resources, faster innovation, and economies of scale."
+  },
+  {
+    "term": "Internet of Things (IoT)",
+    "definition": "The network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet."
+  },
+  {
+    "term": "Cybersecurity",
+    "definition": "The practice of protecting systems, networks, and programs from digital attacks, theft, and damage."
+  },
+  {
+    "term": "Big Data",
+    "definition": "Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions."
+  },
+  {
+    "term": "Virtual Reality (VR)",
+    "definition": "A simulated experience that can be similar to or completely different from the real world, often using headsets and motion tracking."
+  },
+  {
+    "term": "Augmented Reality (AR)",
+    "definition": "An interactive experience where real-world environments are enhanced with computer-generated perceptual information."
+  },
+  {
+    "term": "Quantum Computing",
+    "definition": "An area of computing focused on developing computers that use quantum bits (qubits) to perform calculations at speeds unattainable by classical computers."
+  },
+  {
+    "term": "Natural Language Processing (NLP)",
+    "definition": "A field of artificial intelligence that focuses on the interaction between computers and humans through natural language."
+  },
+  {
+    "term": "Edge Computing",
+    "definition": "A distributed computing paradigm that brings computation and data storage closer to the location where it is needed, improving response times and saving bandwidth."
+  },
+  {
+    "term": "5G",
+    "definition": "The fifth generation of mobile network technology, offering faster speeds, lower latency, and greater connectivity for devices."
+  },
+  {
+    "term": "Serverless Computing",
+    "definition": "A cloud computing execution model where the cloud provider dynamically manages the allocation of machine resources, allowing developers to focus on writing code without managing servers."
+  },
+  {
+    "term": "Data Science",
+    "definition": "An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data."
+  },
+  {
+    "term": "Data Visualization",
+    "definition": "The graphical representation of information and data, using visual elements like charts, graphs, and maps to make complex data more accessible and understandable."
+  },
+  {
+    "term": "User Experience (UX)",
+    "definition": "The overall experience a user has when interacting with a product or service, focusing on usability, accessibility, and pleasure provided in the interaction."
+  },
+  {
+    "term": "User Interface (UI)",
+    "definition": "The means by which a user interacts with a computer, software, or application, including the layout of elements on the screen."
+  },
+  {
+    "term": "Responsive Design",
+    "definition": "An approach to web design that makes web pages render well on a variety of devices and window or screen sizes, ensuring a good user experience."
+  },
+  {
+    "term": "Cross-Platform Development",
+    "definition": "The practice of developing software applications that can run on multiple operating systems or platforms without requiring significant changes."
+  },
+  {
+    "term": "Single Page Application (SPA)",
+    "definition": "A web application that interacts with the user by dynamically rewriting the current page, rather than loading entire new pages from the server."
+  },
+  {
+    "term": "Progressive Enhancement",
+    "definition": "A web development strategy that emphasizes core webpage content first, then enhances the experience for users with more advanced browsers or devices."
+  },
+  {
+    "term": "Content Management System (CMS)",
+    "definition": "A software application that enables users to create, manage, and modify content on a website without needing specialized technical knowledge."
+  },
+  {
+    "term": "Search Engine Optimization (SEO)",
+    "definition": "The practice of optimizing web pages to rank higher in search engine results, increasing the visibility of a website."
+  },
+  {
+    "term": "Web Accessibility",
+    "definition": "The practice of making websites usable for people with disabilities, ensuring that all users can perceive, understand, navigate, and interact with the web."
+  },
+  {
+    "term": "Content Delivery Network (CDN)",
+    "definition": "A system of distributed servers that deliver web content to users based on their geographic location, improving load times and availability."
+  },
+  {
+    "term": "WebSockets",
+    "definition": "A protocol providing full-duplex communication channels over a single TCP connection, enabling real-time data transfer between client and server."
+  },
+  {
+    "term": "Progressive Web App (PWA)",
+    "definition": "A type of application software delivered through the web, built using common web technologies, and intended to work on any platform that uses a standards-compliant browser."
+  },
+  {
+    "term": "WebAssembly",
+    "definition": "A binary instruction format for a stack-based virtual machine, enabling high-performance applications on the web."
+  },
+  {
+    "term": "Content Security Policy (CSP)",
+    "definition": "A security feature that helps prevent a variety of attacks, including cross-site scripting (XSS) and data injection attacks, by specifying which dynamic resources are allowed to load."
+  },
+  {
+    "term": "Cross-Origin Resource Sharing (CORS)",
+    "definition": "A security feature implemented in web browsers that allows or restricts web pages from making requests to a domain different from the one that served the web page."
+  },
+  {
+    "term": "WebRTC",
+    "definition": "A free, open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces (APIs)."
+  },
+  {
+    "term": "Service Worker",
+    "definition": "A script that the browser runs in the background, separate from a web page, enabling features that don't need a web page or user interaction, such as push notifications and background sync."
+  },
+  {
+    "term": "GraphQL",
+    "definition": "A query language for APIs that allows clients to request only the data they need, making it more efficient than traditional REST APIs."
+  },
+  {
+    "term": "Web Components",
+    "definition": "A suite of different technologies allowing you to create reusable custom elements with their functionality encapsulated away from the rest of your code."
+  },
+  {
+    "term": "Virtual DOM",
+    "definition": "A programming concept where a virtual representation of the UI is kept in memory and synced with the real DOM, improving performance and user experience."
+  },
+  {
+    "term": "State Management",
+    "definition": "The management of the state of an application, often using libraries or frameworks to handle data flow and state changes efficiently."
+  },
+  {
+    "term": "Dependency Injection",
+    "definition": "A design pattern in which an object receives other objects that it depends on, promoting loose coupling and easier testing."
+  },
+  {
+    "term": "Event Loop",
+    "definition": "A programming construct that waits for and dispatches events or messages in a program, allowing for asynchronous programming in environments like JavaScript."
+  },
+  {
+    "term": "Asynchronous Programming",
+    "definition": "A programming paradigm that allows for non-blocking operations, enabling the execution of code while waiting for other operations to complete."
+  },
+  {
+    "term": "Promises",
+    "definition": "An object representing the eventual completion (or failure) of an asynchronous operation and its resulting value."
+  },
+  {
+    "term": "Async/Await",
+    "definition": "A syntactic feature in JavaScript that allows for writing asynchronous code in a more synchronous style, making it easier to read and maintain."
+  },
+  {
+    "term": "Functional Programming",
+    "definition": "A programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data."
+  },
+  {
+    "term": "Object-Oriented Programming (OOP)",
+    "definition": "A programming paradigm based on the concept of 'objects', which can contain data and code: data in the form of fields, and code in the form of procedures."
+  },
+  {
+    "term": "Design Patterns",
+    "definition": "General reusable solutions to common problems in software design, providing templates for how to solve issues in a consistent way."
+  },
+  {
+    "term": "Refactoring",
+    "definition": "The process of restructuring existing computer code without changing its external behavior, improving its readability and maintainability."
+  },
+  {
+    "term": "Code Review",
+    "definition": "The systematic examination of computer source code intended to find bugs, improve code quality, and ensure adherence to coding standards."
+  },
+  {
+    "term": "Version Control",
+    "definition": "A system that records changes to a file or set of files over time so that you can recall specific versions later, often using tools like Git."
+  },
+  {
+    "term": "Continuous Integration (CI)",
+    "definition": "A development practice where developers integrate code into a shared repository frequently, with automated builds and tests to detect issues early."
+  },
+  {
+    "term": "Continuous Deployment (CD)",
+    "definition": "A software release process that automatically deploys every change that passes automated tests to production, ensuring rapid delivery of new features."
+  },
+  {
+    "term": "Agile Methodology",
+    "definition": "An iterative approach to software development that emphasizes flexibility, collaboration, and customer feedback throughout the development process."
+  },
+  {
+    "term": "Scrum Framework",
+    "definition": "An agile framework for managing complex projects, focusing on iterative progress through sprints and regular team meetings."
+  },
+  {
+    "term": "Kanban Method",
+    "definition": "A visual workflow management method that helps teams visualize their work, limit work in progress, and maximize efficiency."
+  },
+  {
+    "term": "DevOps Practices",
+    "definition": "A set of practices that combines software development (Dev) and IT operations (Ops), aiming to shorten the systems development life cycle and provide continuous delivery with high software quality."
+  },
+  {
+    "term": "Microservices Architecture",
+    "definition": "An architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities independently."
+  },
+  {
+    "term": "Cloud Native",
+    "definition": "An approach to building and running applications that fully exploit the advantages of cloud computing, including scalability, flexibility, and resilience."
+  }
+]

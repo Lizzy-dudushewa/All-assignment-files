@@ -1,0 +1,18 @@
+[
+  {
+    "term": "JavaScript",
+    "definition": "A programming language used to create interactive effects within web browsers."
+  },
+  {
+    "term": "Closure",
+    "definition": "A function that retains access to its lexical scope even when executed outside that scope."
+  },
+  {
+    "term": "HTML",
+    "definition": "The standard language for creating web pages and web applications."
+  },
+  {
+    "term": "CSS",
+    "definition": "A language used to describe the presentation of a document written in HTML."
+  }
+]

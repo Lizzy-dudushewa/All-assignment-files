@@ -1,0 +1,114 @@
+question3tma
+import os
+
+# Personal details
+name = "John Doe"
+address = "123 Main Street, Anytown, USA"
+phone_number = "+1234567890"
+email = "johndoe@example.com"
+
+# Print the details to the printer (simulation)
+def print_personal_details():
+    print("Sending Personal Details to Printer...\n")
+    print(f"Name: {name}")
+    print(f"Address: {address}")
+    print(f"Phone Number: {phone_number}")
+    print(f"Email: {email}")
+
+    # Simulate sending the information to the printer
+    print("\nPrinted Successfully!")
+
+# Call the function
+print_personal_details()
+
+question4
+from datetime import datetime
+
+# Function to calculate age
+def calculate_age(dob):
+    today = datetime.today()
+    age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
+    return age
+
+# Get user input
+def get_user_details():
+    name = input("Enter your name: ")
+    dob_str = input("Enter your date of birth (YYYY-MM-DD): ")
+    
+    # Convert input string to date object
+    dob = datetime.strptime(dob_str, '%Y-%m-%d')
+    
+    age = calculate_age(dob)
+    
+    print(f"\n{name}, your current age is: {age} years.")
+
+# Call the function
+get_user_details()
+
+question5
+
+# Function to input names into an array and search by index
+def search_name_in_array():
+    # Input number of names
+    n = int(input("Enter the number of names: "))
+    
+    # Input names into an array
+    names = []
+    for i in range(n):
+        name = input(f"Enter name {i+1}: ")
+        names.append(name)
+    
+    # Ask for the index to search
+    index = int(input("Enter the index of the name you want to display (starting from 0): "))
+    
+    if 0 <= index < n:
+        print(f"Name at index {index}: {names[index]}")
+    else:
+        print("Invalid index. Please enter a valid index.")
+
+# Call the function
+search_name_in_array()
+
+question6
+
+-- Create the Student_Information table
+CREATE TABLE Student_Information (
+    student_id INT PRIMARY KEY,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    date_of_birth DATE,
+    grade CHAR(1)
+);
+
+-- Sample data insertion
+INSERT INTO Student_Information (student_id, first_name, last_name, date_of_birth, grade)
+VALUES 
+(1, 'John', 'Doe', '2000-05-15', 'A'),
+(2, 'Jane', 'Smith', '1999-10-22', 'B'),
+(3, 'Mike', 'Johnson', '2001-01-10', 'C'),
+(4, 'Emma', 'Williams', '2000-03-05', 'B'),
+(5, 'Sophia', 'Brown', '1998-12-20', 'A');
+
+-- SELECT Statements (Examples a-g)
+
+-- a. Select all student information
+SELECT * FROM Student_Information;
+
+-- b. Select student names (first and last)
+SELECT first_name, last_name FROM Student_Information;
+
+-- c. Select students with grade 'A'
+SELECT * FROM Student_Information WHERE grade = 'A';
+
+-- d. Select students born after 2000
+SELECT * FROM Student_Information WHERE date_of_birth > '2000-01-01';
+
+-- e. Select the total number of students
+SELECT COUNT(*) FROM Student_Information;
+
+-- f. Select the student with the highest student_id
+SELECT * FROM Student_Information ORDER BY student_id DESC LIMIT 1;
+
+-- g. Select students sorted by their grade
+SELECT * FROM Student_Information ORDER BY grade;
+
